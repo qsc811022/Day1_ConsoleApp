@@ -12,6 +12,7 @@ namespace Day1_ConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("hello_world");
+            
         }
     }
 }
